@@ -1,0 +1,73 @@
+# CANON-0 — Core Invariants
+
+CANON-0 defines the immutable invariants of the Spektre Protocol.  
+Any system violating these invariants is, by definition, non-compliant.
+
+These invariants are not implementation details, best practices, or values.  
+They are hard structural constraints. If one fails, the system fails.
+
+---
+
+## 1. Named Ownership (a = 1)
+
+Every state transition must have exactly one explicitly named owner.
+
+- Ownership cannot be collective, implicit, or retroactively assigned.
+- If ownership is unclear, the transition is invalid.
+- This invariant prevents responsibility diffusion by design.
+
+---
+
+## 2. Context–Ignored–Ledger Completeness (C-I-L)
+
+Every committed transition must include:
+
+- **Context (C):** the situational conditions under which the decision is made
+- **Ignored Set (I):** explicitly excluded variables and alternatives
+- **Ledger (L):** an append-only record of the transition
+
+A transition missing any of these three components is structurally incomplete.
+
+---
+
+## 3. Contextual Falsifiability
+
+Context must contain at least one falsifiable proposition.
+
+- If a decision cannot, in principle, be proven wrong, it is not a decision.
+- This prevents narrative justification without empirical anchor.
+
+---
+
+## 4. Allocation Stability
+
+Analytical processing must stop when additional information no longer changes:
+
+- ownership allocation, or
+- the resulting state transition
+
+Continued analysis beyond this point is classified as instability, not diligence.
+
+---
+
+## 5. Ownership Continuity
+
+Sequential decisions require continuous ownership across the entire chain.
+
+- Ownership may be transferred only via an explicit handoff.
+- Broken ownership chains invalidate downstream commits.
+
+---
+
+## 6. Human Cognitive Anchor
+
+High-risk decisions require a verifiable anchor to physical reality.
+
+- Abstract reasoning alone is insufficient at high consequence levels.
+- This invariant prevents detached simulation from masquerading as action.
+
+---
+
+CANON-0 is immutable.
+
+Revisions, extensions, or interpretations must not alter these invariants.
