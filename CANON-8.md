@@ -139,6 +139,20 @@ CANON-8 is satisfied when:
 - no system output is treated as final authority
 - responsibility cannot be externalized
 
+### Cognitive Safety Clarification
+
+Spectre makes cognitive state explicit, safe, and understandable.
+
+It does not interpret the agent’s mind.
+It does not diagnose, classify, or limit thought.
+
+Safety emerges from structure:
+– Observation is unrestricted.
+– Action requires explicit state ownership.
+– Commitment cannot occur without clarity of state.
+
+Spectre protects agency by preventing implicit delegation,
+not by restricting cognition.
 ---
 
 End of CANON-8
