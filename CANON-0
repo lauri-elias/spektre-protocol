@@ -1,73 +1,180 @@
-# CANON-0 — Core Invariants
+# CANON-0 — Foundational Invariants
 
-CANON-0 defines the immutable invariants of the Spektre Protocol.  
-Any system violating these invariants is, by definition, non-compliant.
+Spektre Protocol is not a tool for optimizing humans.
+It exists to protect human agency from being collapsed into tools’ logic.
 
-These invariants are not implementation details, best practices, or values.  
-They are hard structural constraints. If one fails, the system fails.
-
----
-
-## 1. Named Ownership (a = 1)
-
-Every state transition must have exactly one explicitly named owner.
-
-- Ownership cannot be collective, implicit, or retroactively assigned.
-- If ownership is unclear, the transition is invalid.
-- This invariant prevents responsibility diffusion by design.
+CANON-0 defines what must **never** depend on anything else.
 
 ---
 
-## 2. Context–Ignored–Ledger Completeness (C-I-L)
+## CANON-0.0: Foundational Principle
 
-Every committed transition must include:
+### The Core Problem
 
-- **Context (C):** the situational conditions under which the decision is made
-- **Ignored Set (I):** explicitly excluded variables and alternatives
-- **Ledger (L):** an append-only record of the transition
+The problem is not AI.  
+The problem is that humans attempt to explain themselves using tools’ logic.
 
-A transition missing any of these three components is structurally incomplete.
+### The Error
+
+**Tool ≠ Agent**
+
+- A tool operates without state.
+- A human operates within state.
+- When a human models itself as a tool, state collapses.
+
+**Machine strength is determinism:**
+
+- Same input → same output
+- Suitable for computation
+- In humans: predictability → vulnerability
+
+**Human strength is non-determinism:**
+
+- Same situation → different response in different states
+- Ability to do nothing
+- Ability to break one’s own model
+
+The critical mistake occurs here:
+
+> “If I understand myself like a machine, I can optimize myself.”
+
+In reality:
+
+- The human begins measuring itself with external metrics
+- Reacts like a process
+- Loses agency
+
+### Spectre’s Correction
+
+Spectre does not say:
+- “Humans are machines”
+
+Spectre says:
+- **Humans are dynamic state machines that cannot be closed into models**
+
+Tools may:
+- Model environments ✓
+- Model alternatives ✓
+
+Tools must never:
+- Model the agent itself ✗
+
+### Core Truth
+
+Humans do not break because the world is complex.  
+They break when they are treated like machines.
+
+### Architecture
+
+The switch remains with the human.  
+The tool calculates.
+
+That is the entire architecture.
 
 ---
 
-## 3. Contextual Falsifiability
+## CANON-0.1: Named Ownership (a = 1)
 
-Context must contain at least one falsifiable proposition.
+Every state transition must have exactly one named owner.
 
-- If a decision cannot, in principle, be proven wrong, it is not a decision.
-- This prevents narrative justification without empirical anchor.
+Responsibility is not collective, cultural, or emotional.  
+Responsibility is ownership of a state transition.
 
----
-
-## 4. Allocation Stability
-
-Analytical processing must stop when additional information no longer changes:
-
-- ownership allocation, or
-- the resulting state transition
-
-Continued analysis beyond this point is classified as instability, not diligence.
+If ownership is diffuse, action collapses.
 
 ---
 
-## 5. Ownership Continuity
+## CANON-0.2: Context–Ignored–Ledger Completeness (C–I–L)
 
-Sequential decisions require continuous ownership across the entire chain.
+Every commit requires:
 
-- Ownership may be transferred only via an explicit handoff.
-- Broken ownership chains invalidate downstream commits.
+- **Context (C):** Time-bound, falsifiable grounding
+- **Ignored Set (I):** Explicitly excluded factors
+- **Ledger (L):** Append-only record of the decision
 
----
-
-## 6. Human Cognitive Anchor
-
-High-risk decisions require a verifiable anchor to physical reality.
-
-- Abstract reasoning alone is insufficient at high consequence levels.
-- This invariant prevents detached simulation from masquerading as action.
+A decision without an Ignored Set is not a decision.
 
 ---
 
-CANON-0 is immutable.
+## CANON-0.3: Contextual Falsifiability
 
-Revisions, extensions, or interpretations must not alter these invariants.
+Context must contain at least one proposition that could be proven false.
+
+Unfalsifiable context is narrative, not structure.
+
+---
+
+## CANON-0.4: Allocation Stability
+
+Analytical work must stop when additional information no longer changes:
+
+- Responsibility allocation
+- State transition
+- Commit decision
+
+Continuing analysis past this point is structural noise.
+
+---
+
+## CANON-0.5: Ownership Continuity
+
+Serial decisions require a continuous owner across the entire chain.
+
+Ownership may not silently transfer mid-sequence.
+
+---
+
+## CANON-0.6: Human Cognitive Anchor
+
+High-risk decisions require demonstrable grounding in physical reality.
+
+Symbolic reasoning alone is insufficient under risk.
+
+---
+
+## CANON-0.7: (Reserved)
+
+---
+
+## CANON-0.8: Outcome-Independent Stability
+
+### Axiom
+
+The agent’s internal state **must not** depend on external outcomes.
+
+Formally: 
+
+S ≠ f(O)
+
+Where:
+- `S` = internal state
+- `O` = external outcome
+
+### Unstable Model (Control Dependency)
+
+S = f(O)
+- State depends on outcome
+- Unexpected outcomes collapse agency
+- System becomes reactive
+
+### Stable Model (Innerstate-First)
+
+S ⟂ O
+
+- State is selected or maintained independently
+- Agency (a = 1) remains intact
+- Action is always available
+
+This is not fatalism.  
+This is energy allocation.
+
+---
+
+## Status
+
+- Layer: CANON-0
+- Scope: Non-negotiable invariants
+- Mutability: Immutable
+- Role: Structural foundation
+
+Spektre Protocol v1.1 operates only if CANON-0 holds.
