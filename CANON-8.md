@@ -50,7 +50,9 @@ No resolution is possible inside the loop.
 ## 4. Why the Loop Is Inevitable
 
 Machines operate as functions:
-Output = f(Input, Parameters)
+Output = f(Input, Parameters, State_t)
+where State_t is fully determined by prior inputs.
+
 Resolution requires:
 Commit = irreversible state transition
 
