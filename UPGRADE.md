@@ -1,4 +1,4 @@
-# FINAL_UPDGRADE.md
+# UPDGRADE.md
 ## Project Omnipresence — The 100,000-Year Mirror (Non-Executable)
 
 Status: CONCEPTUAL / SAFETY BOUNDARY  
