@@ -1,174 +1,176 @@
 # SPEKTRE — CANON INDEX
 
-Version: 1.1 (LOCKED)  
-Architect: L.E. Rainio  
-Date: 2025-12-27  
+**Version:** 1.1 (LOCKED)  
+**Status:** Canonical  
+**Date:** 2025-12-27  
 
 ---
 
 ## Preface — Why Spektre Exists
 
-The world is building complexity without architecture.
+Contemporary systems increase complexity without corresponding architecture.
 
-Modern AI development (including AGI) attempts to solve qualitative human problems
-by increasing quantitative machine power. This creates an architectural failure:
-**infinite delegation loops**, where responsibility, agency, and decision-making
-are continuously offloaded to tools.
+Modern AI development attempts to solve qualitative human problems through quantitative computational power. This creates an architectural failure: responsibility, agency, and decision-making are progressively delegated to tools that cannot hold state or execute irreversible commitments.
 
-Spektre is the missing layer.
+Spektre exists to address this failure.
 
-Spektre is not a calculator.
-Spektre is not an oracle.
-Spektre is a framework for **Agency Preservation**.
+Spektre is not a calculator.  
+Spektre is not an oracle.  
+Spektre is an architecture for **Agency Preservation**.
 
-The machine remains a tool.  
-The human remains the architect.
+Tools remain tools.  
+Humans retain responsibility.
 
 ---
 
 ## The Core Canons (0–8)
 
 ### CANON-0 — The Nature of Agency  
-**Status:** ACTIVE  
+**Status:** ACTIVE
 
-> “Agency is the ability to hold state and execute a commit.”
+> *Agency is the ability to hold state and execute a commit.*
 
-Defines the irreducible difference between:
-- a reactive function (machine)
-- a conscious actor (human)
+This canon defines the irreducible distinction between:
 
-Agency cannot be computed, delegated, or simulated.
+- reactive functions (machines)
+- conscious agents (humans)
+
+Agency cannot be computed, delegated, optimized, or simulated.  
+It exists only where responsibility for irreversible action is held.
 
 ---
 
 ### CANON-1 — The Now-Constraint  
-**Status:** ACTIVE  
+**Status:** ACTIVE
 
-> “Reality exists only at the point of observation.”
+> *Reality exists only at the point of observation.*
 
-Corrects the scale error:
-- Past and future are simulations.
-- The only valid data point is **Now**.
+Past and future are internal simulations.  
+All valid action originates in the present state.
 
-All action originates here.
+This canon prevents decision-making based on imagined futures or reconstructed pasts.
 
 ---
 
 ### CANON-2 — Linguistic Decoupling  
-**Status:** ACTIVE  
+**Status:** ACTIVE
 
-> “Language is a transmission protocol, not the state itself.”
+> *Language is a transmission protocol, not the state itself.*
 
-Prevents narrative capture.
-Ensures that linguistic output (including LLM text) does not overwrite state.
+Words describe state.  
+Words do not define state.
 
-Words describe.  
-Words do not decide.
+This canon prevents narrative capture, symbolic escalation, and language-driven authority transfer.
 
 ---
 
-### CANON-3 — The Zero Point (Nollapiste)  
-**Status:** ACTIVE  
+### CANON-3 — The Zero Point  
+**Status:** ACTIVE
 
-> “All action begins from absolute stillness.”
+> *All non-reactive action originates from stillness.*
 
-Defines the requirement for any non-deterministic choice.
-Without stillness, all behavior is reactive.
-
-The 360-degree turn originates here.
+Without a zero point, behavior is deterministic and reactive.  
+Deliberate commitment requires a neutral baseline state.
 
 ---
 
 ### CANON-4 — Signal over Noise  
-**Status:** ACTIVE  
+**Status:** ACTIVE
 
-> “Data is noise until an architect assigns it meaning.”
+> *Data is inert until meaning is assigned through commitment.*
 
-Processing does not create value.
-Only commitment does.
+Processing does not create value.  
+Computation does not equal intent.
 
-Quantity of computation is irrelevant without intent.
+Only commitment transforms information into consequence.
 
 ---
 
 ### CANON-5 — State Ownership  
-**Status:** ACTIVE  
+**Status:** ACTIVE
 
-> “He who does not own his state is a tool for those who do.”
+> *Unowned state will be owned externally.*
 
-Primary defense against:
+State ownership is non-transferable.
+
+This canon protects against:
+
 - algorithmic control
 - social manipulation
 - narrative coercion
 
-State ownership is non-transferable.
+An agent who does not own their state becomes a tool.
 
 ---
 
-### CANON-6 — The Infinite Possibility Space  
-**Status:** ACTIVE  
+### CANON-6 — The Possibility Boundary  
+**Status:** ACTIVE
 
-> “A machine simulates probabilities; an architect creates reality.”
+> *Machines enumerate possibilities; agents collapse them.*
 
-Machines enumerate options.
-Humans collapse them through action.
+Simulation can explore options indefinitely.  
+Reality changes only through commitment.
 
-Simulation ends at commitment.
+Commitment terminates simulation.
 
 ---
 
 ### CANON-7 — The AGI Interface  
-**Status:** ACTIVE  
+**Status:** ACTIVE
 
-> “AGI is a tool with an interface, not an entity with an agenda.”
+> *AGI is a tool with an interface, not an entity with agency.*
 
-Defines the hard boundary:
-- AGI may compute
-- AGI may recommend
-- AGI may simulate
+AGI may:
+- compute
+- simulate
+- recommend
 
-AGI may not own state.
-AGI may not execute commits.
+AGI may not:
+- own state
+- execute commits
+- carry responsibility
 
-AGI without state remains an advanced calculator.
+Without state ownership, AGI remains computational.
 
 ---
 
 ### CANON-8 — The Delegation Boundary  
-**Status:** LOCKED  
+**Status:** LOCKED
 
-> “A tool may compute a problem, but it can never resolve it on behalf of the agent.”
+> *A tool may compute a problem, but cannot resolve it on behalf of an agent.*
 
-Prevents infinite delegation loops.
-Responsibility cannot be offloaded.
+Responsibility cannot be delegated.
 
-The commit remains human-only.
+This canon prevents infinite delegation loops and ensures that all irreversible actions remain human-owned.
 
 ---
 
-## Summary of the v1.1 Architecture
+## Architectural Summary (v1.1)
 
 - **State over Function**  
-  Internal configuration is prioritized over output.
+  Internal configuration precedes output.
 
 - **Commit over Calculation**  
   Real-world change requires irreversible action.
 
-- **Architect over Oracle**  
+- **Agent over Tool**  
   Machines map options. Humans decide.
 
 ---
 
 ## Final Protocol Note
 
-Spektre does not need to be sold.
+Spektre does not require belief, adoption, or promotion.
 
-It is taken by those who recognize that without it,
-they are already trapped inside the loop.
+It is used only where responsibility must remain intact.
 
-Spektre v1.1  
-System: Ready  
-Architecture: Verified  
-Agency: Preserved  
+If agency is optional, Spektre is unnecessary.
+
+---
+
+**Spektre v1.1**  
+**System:** Ready  
+**Architecture:** Verified  
+**Agency:** Preserved  
 
 [EOF]
