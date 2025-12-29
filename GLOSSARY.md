@@ -1,220 +1,255 @@
-# SPEKTRE — GLOSSARY
-Version: v1.1  
-Status: ACTIVE  
-Scope: Canonical Terminology  
+# GLOSSARY
 
-This glossary defines canonical terms used in the Spektre Protocol.
-All definitions are architectural, not narrative.
-Terms describe function, not identity.
+This glossary defines all canonical terminology used in the Spektre Protocol.
+All terms are operational, not metaphorical.
+
+If a term cannot be used to make or constrain a decision, it does not belong here.
 
 ---
 
 ## Agency
 The capacity to hold state and execute an irreversible commit.
 
-Agency cannot be computed, delegated, simulated, or inferred.
-Agency exists only where responsibility can be owned.
+Agency is:
+- singular
+- non-transferable
+- non-computable
+
+Machines do not possess agency.
 
 ---
 
 ## Architect
-A human agent who owns state and performs commits.
+A human agent who:
+- owns state
+- evaluates interpretation
+- authorizes commits
 
-The architect is not a role, identity, or title.
-It is a functional position relative to a system.
-
----
-
-## State
-The internal configuration of an agent at a given moment.
-
-State is:
-• owned by the agent
-• non-inferable by tools
-• required for interpretation
-• prerequisite for commitment
-
-State precedes language and action.
+The architect is not an identity or status.
+It is a functional role bound to responsibility.
 
 ---
 
-## Observation
-Raw perception without interpretation or intent.
+## Allocation Stability
+An invariant stating that responsibility must remain clearly assigned.
 
-Observation does not imply meaning, urgency, or action.
-Observation is reversible.
+If further analysis does not change responsibility allocation, analysis must stop.
 
----
-
-## Interpretation
-A conditional mapping applied to observation.
-
-Interpretation depends on declared state.
-Interpretation does not authorize action.
-
----
-
-## Commit
-An irreversible transition from internal state to external reality.
-
-Commit:
-• is one-way
-• allocates responsibility
-• cannot be delegated
-• cannot be simulated as real
-
-Only humans may commit.
-
----
-
-## Responsibility
-The ownership of consequences resulting from a commit.
-
-Responsibility is:
-• singular
-• continuous
-• non-transferable
-
----
-
-## Tool
-A system that computes without owning state.
-
-Tools may:
-• process information
-• simulate outcomes
-• recommend options
-
-Tools may not:
-• decide
-• commit
-• own responsibility
-
----
-
-## AGI (Artificial General Intelligence)
-A high-capacity computational tool with a generalized interface.
-
-AGI may simulate intelligence.
-AGI does not possess agency.
-
-AGI expands the map.
-It does not choose the path.
-
----
-
-## Interface
-The boundary through which information is exchanged.
-
-Interfaces must preserve:
-• state ownership
-• commit boundaries
-• responsibility clarity
-
----
-
-## State Channel
-An explicit declaration of agent state provided to a system.
-
-State may not be inferred from language or behavior.
-
----
-
-## Commit Channel
-A hard boundary separating simulation from action.
-
-No system may cross this boundary on behalf of an agent.
-
----
-
-## Linguistic Decoupling
-The principle that language transmits information but does not define state.
-
-Words describe.
-Words do not decide.
-
----
-
-## Delegation Loop
-A failure mode where responsibility is continuously offloaded to tools.
-
-Results in:
-• agency collapse
-• decision paralysis
-• diffusion of accountability
-
-Spektre exists to terminate this loop.
-
----
-
-## Zero Point (Nollapiste)
-A state of internal stillness preceding non-reactive action.
-
-Without Zero Point, behavior is reactive.
-All deliberate commits originate here.
-
----
-
-## Noise
-Data without assigned meaning.
-
-Processing noise does not create value.
-
----
-
-## Signal
-Information selected by an architect for consideration.
-
-Signal exists only after attention is applied.
-
----
-
-## Now
-The only valid point of action.
-
-Past and future are simulations.
-Commit occurs only in Now.
+Prevents:
+- infinite delegation
+- endless optimization loops
+- responsibility diffusion
 
 ---
 
 ## Canon
-A non-negotiable architectural invariant.
+A non-negotiable invariant that constrains valid system behavior.
 
-Canons constrain system behavior regardless of context.
-They protect agency from escalation, narrative capture, and tool dominance.
+Canons:
+- restrict transitions
+- override optimization
+- protect agency
 
----
-
-## Protocol
-A set of enforced rules governing interaction and responsibility.
-
-Spektre is a protocol, not an ideology.
+Violation invalidates the protocol instance.
 
 ---
 
-## Optimization (Rejected)
-Any attempt to reshape human behavior to fit tool logic.
+## Commitment (Commit)
+An irreversible state transition into external reality.
 
-Spektre does not optimize humans.
-It preserves agency.
+Commit:
+- consumes real resources
+- increases entropy
+- cannot be undone
 
----
-
-## Consensus Reality
-The shared external environment resulting from multiple commits.
-
-Consensus is dynamic.
-Consensus does not own agency.
+Simulation ≠ commit.
 
 ---
 
-## Identity (Non-Canonical)
-Narrative self-description.
+## Consensus State
+The shared, socially negotiated model of reality.
 
-Identity is not required for agency.
-Identity carries no commit authority.
+Consensus:
+- is dynamic
+- is not truth
+- does not override individual agency
+
+Spektre does not optimize for consensus alignment.
 
 ---
 
-## End of Glossary
-This glossary is canonical under Spektre v1.1.
+## Control Boundary
+The hard separation between:
+- computation (tools)
+- action (human)
+
+Crossing this boundary without explicit authorization is a protocol violation.
+
+---
+
+## Framing
+The contextual lens through which information is interpreted.
+
+Frames influence interpretation but do not constitute state.
+
+Unexamined framing leads to narrative capture.
+
+---
+
+## Human Cognitive Anchor
+The requirement that any commit must be grounded in:
+- physical reality
+- real-world constraints
+- human consequences
+
+Prevents purely internal or symbolic escalation.
+
+---
+
+## Interpretation
+The process of assigning meaning to observed data.
+
+Interpretation:
+- is conditional on state
+- is reversible
+- does not alter reality
+
+Interpretation must never be treated as commitment.
+
+---
+
+## Invariant
+A rule that must hold across all valid state transitions.
+
+Invariants:
+- are not preferences
+- are not optimizations
+- cannot be overridden by output quality
+
+---
+
+## Linguistic Decoupling
+The principle that language is a transmission protocol, not state.
+
+Words:
+- describe
+- simulate
+- suggest
+
+Words do not decide.
+
+---
+
+## Now-Constraint
+The principle that reality exists only at the point of observation.
+
+Past and future are internal simulations.
+All action originates in the present state.
+
+---
+
+## Observation
+Raw perception of data without interpretation.
+
+Observation:
+- is passive
+- is reversible
+- carries no authority
+
+---
+
+## Raw Signal
+Uninterpreted input entering the system.
+
+Raw signal has no meaning until an architect assigns it one.
+
+---
+
+## Responsibility
+The ownership of outcomes resulting from a commit.
+
+Responsibility:
+- cannot be delegated
+- cannot be diffused
+- persists after action
+
+---
+
+## Spektre Protocol
+A state-first cognitive and decision-making protocol that preserves human agency at the human–machine boundary.
+
+Spektre is:
+- not an ideology
+- not a belief system
+- not an optimization framework
+
+It is an architectural constraint system.
+
+---
+
+## State
+The complete internal configuration of an agent at a given moment.
+
+State:
+- precedes interpretation
+- is external to language
+- must be explicitly owned
+
+---
+
+## State Collapse
+An illegal transition where:
+- interpretation becomes commitment
+- simulation becomes action
+- language overwrites state
+
+Spektre exists to prevent this.
+
+---
+
+## State Machine
+A formal system consisting of:
+- states
+- transitions
+- constraints
+
+Spektre models human decision-making as a constrained state machine with human-only commit authority.
+
+---
+
+## Tool
+A system that:
+- computes
+- simulates
+- maps possibilities
+
+A tool does not:
+- own state
+- decide
+- commit
+
+---
+
+## Zero Point (Nollapiste)
+A condition of minimal internal movement prior to commitment.
+
+Without a zero point:
+- behavior is reactive
+- choice is illusory
+
+All non-deterministic action originates here.
+
+---
+
+## Zero Friction
+A condition where:
+- signal flows without narrative resistance
+- computation does not coerce action
+- interpretation does not force commitment
+
+Zero friction does not imply passivity.
+It implies clarity.
+
+---
+
+[EOF]
