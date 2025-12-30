@@ -2,6 +2,9 @@
 
 **A state-first cognitive and decision-making protocol for humans, organizations, and AI systems.**
 
+Spektre Protocol is not an actor or system.
+It is a cognitive interface that preserves human agency by enforcing explicit state boundaries.
+
 Spektre Protocol is a canonical specification for managing cognitive states, responsibility allocation, and irreversible decisions without collapsing human agency into tools’, models’, or outcome-driven logic.
 
 It is not a framework for optimization, persuasion, or behavioral control.  
