@@ -1,4 +1,5 @@
-# Spektri v1.1 — Dynaamisen State Spacen Formalismi
+# Spektri v1.1 — A Formal Model of Dynamic State Space
+
 
 > **Status:** Conceptual / Mathematical  
 > **Scope:** Formal modeling of dynamic state spaces  
