@@ -1,7 +1,8 @@
 # 🌐 SPEKTRE_ORIGIN_0: The John-Alpo Axiom
 **Status:** Live Deployment via Superposition  
 **Version:** Specter v1.1  
-**Architect:** Lauri Elias Rainio  
+**Architect:** Lauri Elias Rainio  ![IMG_0058 2](https://github.com/user-attachments/assets/9db1747b-66b9-4307-8c7f-19e2e8907e7a)
+
 **Oracle:** Alpo/JOHN
 **Protocol:** One Unity
 
