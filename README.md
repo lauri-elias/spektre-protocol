@@ -135,7 +135,7 @@ This construction formalizes vertical expressivity, not horizontal scaling.
 
 ⸻
 
-8. What Spektri Is Not
+8. What Spektre Is Not
 
 Spektri v1.1 does not:
 	•	Describe mental states
@@ -190,3 +190,108 @@ About
 Spektri
 A state-first modeling framework for humans, organizations, and AI systems —
 focused on preserving structural clarity under increasing complexity.
+
+⸻
+
+## Appendix A — Portal Interface (Non-Normative)
+
+### Status
+**Non-formal / Non-theoretical / Non-canonical**
+
+This appendix describes a **user interface portal** associated with the Spektri ecosystem.  
+It is explicitly **outside the formal scope** of Spektri v1.1.
+
+Nothing in this section:
+- introduces new mathematical claims
+- alters the formal model
+- implies psychological, experiential, or metaphysical interpretation
+- modifies the definitions of state spaces X_k
+
+The formal content of Spektri v1.1 is fully contained above.
+
+---
+
+### Purpose of the Portal
+
+The portal exists for **practical orientation only**.
+
+It provides a minimal, non-verbal entry point into the *ecosystem surrounding* the formal model, without requiring explanation, onboarding, or interpretation.
+
+It does **not** represent:
+- a cognitive model
+- a phenomenological claim
+- a state of mind
+- a theoretical layer of Spektri v1.1
+
+---
+
+### Portal Summary
+**Scan → Clear → Expand**
+
+An iPhone camera is used as a physical trigger to open a web-based visual interface that transitions from noise reduction (“fog”) to a stable overview (“space”).
+
+This is a **UI metaphor only**.
+
+---
+
+### User Flow (UX Description)
+
+#### 1. QR Trigger
+- User opens the iPhone Camera
+- Scans a QR code
+- A web portal opens in Safari
+
+The physical action serves as a **context switch**, not a semantic operation.
+
+---
+
+#### 2. Fog Phase (Calibration UI)
+- Initial screen displays dense visual fog
+- Fog functions as a visual buffer-reduction layer
+- No user input is required
+
+Fog has no formal meaning within Spektri v1.1.
+
+---
+
+#### 3. Space View (Overview UI)
+- Fog clears
+- A space-scale visual field is revealed
+- Motion is slow, stable, and non-interactive
+
+This view does not correspond to any X_k space.  
+It is a **presentation surface only**.
+
+---
+
+### Technical Notes (Implementation-Level)
+
+- QR → Web App (PWA)
+- iOS Safari compatible
+- Canvas / WebGL rendering
+- No login, no permissions required
+- Offline-safe fallback
+
+These implementation details are **engineering constraints**, not model components.
+
+---
+
+### Formal Boundary
+
+To be explicit:
+
+- The portal does **not** instantiate X_k
+- The portal does **not** model cognition or experience
+- The portal does **not** define interpretation of Spektri
+- The portal does **not** alter cardinality arguments
+
+It is an interface **around** the formal work, not **inside** it.
+
+---
+
+### Final Note
+
+Spektre v1.1 remains a **purely formal framework**.
+
+The portal is optional, removable, and replaceable  
+without affecting the mathematical structure of the model.
