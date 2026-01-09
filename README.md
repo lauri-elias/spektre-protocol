@@ -1,4 +1,4 @@
-Spektri v1.1
+Spektre v1.1
 
 A Formal Model of Dynamic State Spaces
 
