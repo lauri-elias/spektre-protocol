@@ -1,0 +1,154 @@
+# Spektre v1.1 — Architecture
+
+## Status
+Formal / Structural  
+Non-interpretive  
+Non-phenomenological
+
+This document describes the **architectural structure** of the Spektre v1.1 framework.
+It does not introduce new theory beyond what is defined in README.md.
+Its purpose is to clarify **how the formal components relate**, not what they “mean”.
+
+---
+
+## 1. Architectural Principle
+
+Spektre v1.1 models systems by **increasing expressive capacity through vertical expansion of state spaces**, not by horizontal accumulation of features or parameters.
+
+Architecture is therefore defined by:
+- ordering of state spaces
+- admissible transitions between levels
+- constraints imposed by cardinality and structure
+
+No architectural component refers to experience, cognition, or agency.
+
+---
+
+## 2. Layered State Space Stack
+
+The architecture is organized as a **strict hierarchy of state spaces**:
+
+X₀  →  X₁  →  X₂  →  …  →  Xₖ
+
+Where each level satisfies:
+
+Xₖ₊₁ := ℝ^{Xₖ}
+
+This defines a **vertical stack** of increasing expressive classes.
+
+### Properties
+- Each layer strictly dominates the previous in representational power
+- No layer can be reduced to a finite encoding of a lower layer
+- Transitions are structural, not temporal
+
+---
+
+## 3. Separation of Concerns
+
+Spektre architecture enforces the following separations:
+
+### 3.1 Structure vs Interpretation
+- Architecture defines **spaces and operators**
+- Interpretation is explicitly excluded
+
+### 3.2 Capacity vs Computation
+- The framework describes what *can* be represented
+- It does not describe how representations are computed
+
+### 3.3 Model vs Instance
+- Xₖ defines a class of possible systems
+- No concrete system instance is specified
+
+---
+
+## 4. Transition Semantics
+
+Transitions between layers are **not dynamic processes**.
+
+They represent:
+- inclusion of broader operator classes
+- expansion of admissible mappings
+- lifting of prior constraints
+
+There is no notion of:
+- execution
+- runtime
+- simulation
+- causality between layers
+
+---
+
+## 5. Cardinality as a Structural Constraint
+
+Cardinality is used as a **hard architectural boundary**.
+
+Key implications:
+- Infinite-dimensional does not imply maximal expressivity
+- Countable constructions remain within continuum cardinality
+- True expressive jumps occur only at uncountable operator levels
+
+This prevents false equivalence between:
+- scale
+- complexity
+- expressive power
+
+---
+
+## 6. Non-Goals of the Architecture
+
+The architecture does not:
+- optimize performance
+- prescribe algorithms
+- define learning rules
+- define control policies
+- imply real-world instantiation
+
+These concerns are intentionally external.
+
+---
+
+## 7. Relationship to Other Architectures
+
+Spektre v1.1 is compatible with, but not reducible to:
+- software architecture diagrams
+- layered system stacks (OSI, etc.)
+- cognitive or organizational models
+
+It is a **representational architecture**, not an operational one.
+
+---
+
+## 8. Extensibility
+
+Architectural extensions must satisfy:
+- preservation of formal consistency
+- explicit statement of added assumptions
+- no retroactive reinterpretation of Xₖ
+
+Examples of admissible extensions:
+- topological enrichment of Xₖ
+- measure-theoretic constraints
+- restricted operator subclasses
+
+---
+
+## 9. Formal Boundary
+
+This architecture document:
+- does not add semantics
+- does not add interpretation
+- does not modify definitions in README.md
+
+It exists to make the **structure navigable**, not meaningful.
+
+---
+
+## 10. Summary
+
+Spektre v1.1 architecture is defined by:
+- vertical expressivity
+- strict layering
+- cardinality-based constraints
+- separation of structure from interpretation
+
+It describes **what kinds of systems are possible**, not what systems are, do, or experience.
