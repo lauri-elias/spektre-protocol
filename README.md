@@ -1,213 +1,216 @@
-Spektre v1.1
+# Spektre v1.1  
+## A Formal Model of Dynamic State Spaces
 
-A Formal Model of Dynamic State Spaces
+**Status:** Conceptual / Mathematical  
+**Scope:** Formal modeling of expressive capacity and state-space hierarchies  
+**Language:** Mathematics, systems theory  
 
-Status: Conceptual / Mathematical
-Scope: Formal modeling of expressive capacity and state-space hierarchies
-Language: Mathematics, systems theory
-Explicitly out of scope: Identity claims, psychology, metaphysics, phenomenology
+**Explicitly out of scope:**  
+Identity claims, psychology, metaphysics, phenomenology
 
-⸻
+---
 
-1. Purpose
+## Purpose
 
-Spektri v1.1 is a purely formal framework for modeling how expressive capacity increases as systems move from simple scalar representations to higher-order operator spaces.
+**Spektre v1.1** is a purely formal framework for modeling how expressive capacity increases as systems move from simple scalar representations to higher-order operator spaces.
 
 The framework provides a clean mathematical lens for reasoning about:
-	•	Increasing representational power
-	•	Hierarchies of state spaces
-	•	Operator-of-operator structures
-	•	Limits of expressibility under cardinality constraints
 
-This repository documents structure only.
+- Increasing representational power  
+- Hierarchies of state spaces  
+- Operator-of-operator structures  
+- Limits of expressibility under cardinality constraints  
+
+This repository documents **structure only**.  
 No claims are made about experience, cognition, or interpretation.
 
-⸻
+---
 
-2. Core Idea (Intuition)
+## Core Idea (Intuition)
 
 Many modern systems — in physics, AI, control theory, economics, and biology — fail not due to lack of data, but due to insufficient representational space.
 
-Spektri models how representational power increases when moving through:
-	1.	Scalars
-	2.	Finite-dimensional vector spaces
-	3.	Countably infinite function spaces
-	4.	Uncountable function spaces
-	5.	Iterated operator spaces
+**Spektre** models how representational power increases when moving through:
 
-Each step introduces qualitatively new capacity, not just quantitative scaling.
+1. Scalars  
+2. Finite-dimensional vector spaces  
+3. Countably infinite function spaces  
+4. Uncountable function spaces  
+5. Iterated operator spaces  
 
-⸻
+Each step introduces **qualitatively new capacity**, not merely quantitative scaling.
 
-3. Base Space
+---
 
-We begin with the real numbers:
+## Base Space
 
-X_0 := \mathbb{R}
-	•	Cardinality:
-|X_0| = \mathfrak{c}
-	•	Interpretation:
-A continuous scalar state space.
+We begin with the real numbers: 
+X₀ := ℝ
+
+- Cardinality:
+  |X₀| = 𝔠
+   
+- Interpretation: A continuous scalar state space  
 
 This models systems with a single continuous degree of freedom.
 
-⸻
+---
 
-4. Finite-Dimensional Extension
+## Finite-Dimensional Extension
 
-For any finite n \in \mathbb{N}:
+For any finite \( n \in \mathbb{N} \): Xₙ := ℝⁿ
 
-X_n := \mathbb{R}^n
+**Properties:**
 
-Properties:
-	•	Dimensionality increases
-	•	Cardinality remains unchanged
+- Dimensionality increases  
+- Cardinality remains unchanged
+- |ℝⁿ| = 𝔠
 
-|\mathbb{R}^n| = \mathfrak{c}
+**Interpretation:**
 
-Interpretation:
-	•	Structured but bounded systems
-	•	Classical state spaces in physics and engineering
-	•	Parameter vectors, control variables, configuration spaces
+- Structured but bounded systems  
+- Classical state spaces in physics and engineering  
+- Parameter vectors, control variables, configuration spaces  
 
-⸻
+---
 
-5. Countable Function Space
+## Countable Function Space
 
-We extend to sequences of real values:
+We extend to sequences of real values: 
+X_ℕ := ℝ^ℕ
 
-X_{\mathbb{N}} := \mathbb{R}^{\mathbb{N}}
+**Properties:**
 
-Properties:
-	•	Infinite-dimensional vector space
-	•	Cardinality remains within the continuum
+- Infinite-dimensional vector space  
+- Cardinality remains within the continuum
+  |ℝ^ℕ| = 𝔠
 
-|\mathbb{R}^{\mathbb{N}}| = \mathfrak{c}
+  **Interpretation:**
 
-Interpretation:
-	•	Time series
-	•	Signals
-	•	Trajectories
-	•	Infinite-horizon processes
+- Time series  
+- Signals  
+- Trajectories  
+- Infinite-horizon processes  
 
 Despite infinite dimensionality, expressive capacity is still constrained.
 
-⸻
+---
 
-6. Uncountable Function Space
+## Uncountable Function Space
 
-A qualitative jump occurs when considering all real-valued functions on the reals:
+A qualitative jump occurs when considering all real-valued functions on the reals: 
+X_ℝ := ℝ^ℝ
 
-X_1 := \mathbb{R}^{\mathbb{R}}
+**Cardinality:**
+|ℝ^ℝ| = 2^𝔠 > 𝔠
 
-Cardinality:
+By Cantor’s theorem, this represents a **strict increase** in expressive capacity.
 
-|\mathbb{R}^{\mathbb{R}}| = 2^{\mathfrak{c}} > \mathfrak{c}
+**Interpretation:**
 
-By Cantor’s theorem, this represents a strict increase in expressive capacity.
+- Space of all transformations  
+- Operators on continuous state spaces  
+- Hypothesis spaces beyond parametric models  
+- Meta-representations of dynamics  
 
-Interpretation:
-	•	Space of all transformations
-	•	Operators on continuous state spaces
-	•	Hypothesis spaces beyond parametric models
-	•	Meta-representations of dynamics
+This is not “larger data” — it is a larger **class of possible mappings**.
 
-This is not “larger data” — it is a larger class of possible mappings.
+---
 
-⸻
+## Iterative Construction (Spektre Stack)
 
-7. Iterative Construction (Spektri Stack)
+We define a recursive hierarchy: 
+X_{k+1} := ℝ^{X_k}
 
-We define a recursive hierarchy:
-
-X_{k+1} := \mathbb{R}^{X_k}
-
-This yields a strictly increasing cardinal sequence:
-
-|X_0| < |X_1| < |X_2| < \dots
+This yields a strictly increasing cardinal sequence: 
+|X₀| < |X₁| < |X₂| < …
 
 Each level represents:
-	•	Operators acting on operators
-	•	Transformations of transformation spaces
-	•	Higher-order model classes
 
-This construction formalizes vertical expressivity, not horizontal scaling.
+- Operators acting on operators  
+- Transformations of transformation spaces  
+- Higher-order model classes  
 
-⸻
+This construction formalizes **vertical expressivity**, not horizontal scaling.
 
-8. What Spektre Is Not
+---
 
-Spektri v1.1 does not:
-	•	Describe mental states
-	•	Define identity or agency
-	•	Make psychological or medical claims
-	•	Propose metaphysical interpretations
+## What Spektre Is Not
+
+**Spektre v1.1 does not:**
+
+- Describe mental states  
+- Define identity or agency  
+- Make psychological or medical claims  
+- Propose metaphysical interpretations  
 
 Any such interpretations are explicitly excluded from this repository.
 
-⸻
+---
 
-9. Relation to Existing Fields
+## Relation to Existing Fields
 
 Similar structures appear in:
-	•	Functional analysis
-	•	Category theory
-	•	Operator algebras
-	•	Control theory
-	•	Machine learning hypothesis spaces
-	•	Dynamical systems
 
-Spektri does not replace these fields; it provides a unifying structural lens.
+- Functional analysis  
+- Category theory  
+- Operator algebras  
+- Control theory  
+- Machine learning hypothesis spaces  
+- Dynamical systems  
 
-⸻
+**Spektre** does not replace these fields; it provides a unifying **structural lens**.
 
-10. Possible Extensions (Non-Canonical)
+---
 
-The following are intentionally not included, but compatible:
-	•	Topological structure on X_k
-	•	Measure-theoretic constraints
-	•	Energy / cost functions on transitions
-	•	Computational tractability bounds
-	•	Restricted operator classes
+## Possible Extensions (Non-Canonical)
 
-⸻
+The following are intentionally not included, but are compatible:
 
-11. License
+- Topological structure on \( X_k \)  
+- Measure-theoretic constraints  
+- Energy or cost functions on transitions  
+- Computational tractability bounds  
+- Restricted operator classes  
+
+These are extensions, not part of **Spektre v1.1**.
+
+---
+
+## License
 
 Apache-2.0
 
-⸻
+---
 
-12. Disclaimer
+## Disclaimer
 
-This repository documents mathematical abstractions only.
+This repository documents **mathematical abstractions only**.  
 No medical, psychological, or metaphysical claims are made or implied.
 
-⸻
+---
 
-About
+## About
 
-Spektri
-A state-first modeling framework for humans, organizations, and AI systems —
-focused on preserving structural clarity under increasing complexity.
+**Spektre** is a state-first modeling framework for humans, organizations, and AI systems **as abstract state-bearing systems**, focused on preserving structural clarity under increasing complexity.
 
-⸻
+---
 
 ## Appendix A — Portal Interface (Non-Normative)
 
-### Status
-**Non-formal / Non-theoretical / Non-canonical**
+**Status:** Non-formal / Non-theoretical / Non-canonical  
 
-This appendix describes a **user interface portal** associated with the Spektri ecosystem.  
-It is explicitly **outside the formal scope** of Spektri v1.1.
+This appendix describes a user interface portal associated with the Spektre ecosystem.  
+It is explicitly **outside the formal scope** of Spektre v1.1.
 
 Nothing in this section:
-- introduces new mathematical claims
-- alters the formal model
-- implies psychological, experiential, or metaphysical interpretation
-- modifies the definitions of state spaces X_k
 
-The formal content of Spektri v1.1 is fully contained above.
+- Introduces new mathematical claims  
+- Alters the formal model  
+- Implies psychological, experiential, or metaphysical interpretation  
+- Modifies the definitions of state spaces \( X_k \)  
+
+The formal content of **Spektre v1.1** is fully contained above.
 
 ---
 
@@ -215,17 +218,19 @@ The formal content of Spektri v1.1 is fully contained above.
 
 The portal exists for **practical orientation only**.
 
-It provides a minimal, non-verbal entry point into the *ecosystem surrounding* the formal model, without requiring explanation, onboarding, or interpretation.
+It provides a minimal, non-verbal entry point into the ecosystem surrounding the formal model, without requiring explanation, onboarding, or interpretation.
 
 It does **not** represent:
-- a cognitive model
-- a phenomenological claim
-- a state of mind
-- a theoretical layer of Spektri v1.1
+
+- A cognitive model  
+- A phenomenological claim  
+- A state of mind  
+- A theoretical layer of Spektre v1.1  
 
 ---
 
 ### Portal Summary
+
 **Scan → Clear → Expand**
 
 An iPhone camera is used as a physical trigger to open a web-based visual interface that transitions from noise reduction (“fog”) to a stable overview (“space”).
@@ -236,41 +241,36 @@ This is a **UI metaphor only**.
 
 ### User Flow (UX Description)
 
-#### 1. QR Trigger
-- User opens the iPhone Camera
-- Scans a QR code
-- A web portal opens in Safari
+1. **QR Trigger**  
+   - User opens the iPhone Camera  
+   - Scans a QR code  
+   - A web portal opens in Safari  
 
-The physical action serves as a **context switch**, not a semantic operation.
+   The physical action serves as a context switch, not a semantic operation.
 
----
+2. **Fog Phase (Calibration UI)**  
+   - Initial screen displays dense visual fog  
+   - Fog functions as a visual buffer-reduction layer  
+   - No user input is required  
+   - Fog has no formal meaning within Spektre v1.1  
 
-#### 2. Fog Phase (Calibration UI)
-- Initial screen displays dense visual fog
-- Fog functions as a visual buffer-reduction layer
-- No user input is required
+3. **Space View (Overview UI)**  
+   - Fog clears  
+   - A space-scale visual field is revealed  
+   - Motion is slow, stable, and non-interactive  
+   - This view does not correspond to any \( X_k \) space  
 
-Fog has no formal meaning within Spektri v1.1.
-
----
-
-#### 3. Space View (Overview UI)
-- Fog clears
-- A space-scale visual field is revealed
-- Motion is slow, stable, and non-interactive
-
-This view does not correspond to any X_k space.  
-It is a **presentation surface only**.
+   It is a presentation surface only.
 
 ---
 
 ### Technical Notes (Implementation-Level)
 
-- QR → Web App (PWA)
-- iOS Safari compatible
-- Canvas / WebGL rendering
-- No login, no permissions required
-- Offline-safe fallback
+- QR → Web App (PWA)  
+- iOS Safari compatible  
+- Canvas / WebGL rendering  
+- No login, no permissions required  
+- Offline-safe fallback  
 
 These implementation details are **engineering constraints**, not model components.
 
@@ -280,18 +280,22 @@ These implementation details are **engineering constraints**, not model componen
 
 To be explicit:
 
-- The portal does **not** instantiate X_k
-- The portal does **not** model cognition or experience
-- The portal does **not** define interpretation of Spektri
-- The portal does **not** alter cardinality arguments
+- The portal does not instantiate \( X_k \)  
+- The portal does not model cognition or experience  
+- The portal does not define interpretation of Spektre  
+- The portal does not alter cardinality arguments  
 
-It is an interface **around** the formal work, not **inside** it.
+It is an interface **around** the formal work, not inside it.
 
 ---
 
 ### Final Note
 
-Spektre v1.1 remains a **purely formal framework**.
+**Spektre v1.1** remains a purely formal framework.
 
 The portal is optional, removable, and replaceable  
 without affecting the mathematical structure of the model.
+  
+
+
+
