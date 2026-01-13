@@ -1,29 +1,36 @@
-# CANON-8: THE DELEGATION BOUNDARY
+# CANON-8 — THE DELEGATION BOUNDARY
 
-Status: LOCKED  
-Version: Spektre v1.1  
-Scope: Agency Preservation  
-Type: Terminal Constraint
+**Status:** LOCKED  
+**Version:** Spektre v1.1  
+**Layer:** Terminal Constraint  
+**Scope:** Agency Preservation  
+**Dependency:** CANON-0 (Tool ≠ Agent), CANON-5 (State Ownership), CANON-7 (The AGI Interface)
 
 ---
 
 ## 1. Definition
 
-Delegation is the act of transferring execution, not responsibility.
+Delegation is the transfer of **execution**, not **resolution**.
 
-A tool may assist computation.
-A tool may expand the option space.
-A tool may clarify consequences.
+A tool may:
 
-A tool may **never** resolve a problem on behalf of the agent.
+- assist computation
+- expand the option space
+- clarify consequences
+- simulate outcomes
+
+A tool may **never** resolve a problem on behalf of an agent.
+
+Resolution is the act that terminates uncertainty.
+Resolution is inseparable from agency.
 
 ---
 
 ## 2. Core Axiom
 
-> “Delegation ends where agency begins.”
+> **Delegation ends where agency begins.**
 
-Any attempt to delegate resolution itself results in a closed loop.
+Any attempt to delegate resolution itself produces a closed loop.
 
 ---
 
@@ -33,30 +40,35 @@ Any attempt to delegate resolution itself results in a closed loop.
 
 Without a hard boundary, the following pattern emerges:
 
-1. Agent encounters uncertainty
-2. Agent delegates problem to tool
-3. Tool produces options or recommendations
-4. Agent delegates interpretation back to tool
-5. Tool refines output
-6. No commit occurs
-7. Loop repeats
+1. An agent encounters uncertainty  
+2. The agent delegates the problem to a tool  
+3. The tool produces options or recommendations  
+4. The agent delegates interpretation back to the tool  
+5. The tool refines output  
+6. No commit occurs  
+7. The loop repeats  
 
-This is infinite delegation.
+This is **infinite delegation**.
 
 No resolution is possible inside the loop.
 
 ---
 
-## 4. Why the Loop Is Inevitable
+## 4. Why the Loop Is Structurally Inevitable
 
 Machines operate as functions:
 Output = f(Input, Parameters, State_t)
-where State_t is fully determined by prior inputs.
+
+Where:
+
+- `State_t` is fully determined by prior inputs
+- No irreversible transition occurs
 
 Resolution requires:
 Commit = irreversible state transition
 
 A function cannot perform a commit.
+
 Delegating resolution to a function is structurally impossible.
 
 ---
@@ -65,27 +77,31 @@ Delegating resolution to a function is structurally impossible.
 
 CANON-8 establishes a non-negotiable boundary:
 
-- Tools compute
-- Agents resolve
+- Tools compute  
+- Agents resolve  
 
 At this boundary:
+
 - computation stops
 - responsibility concentrates
 - action becomes possible
+
+Crossing this boundary is not an optimization.
+It is an agency violation.
 
 ---
 
 ## 6. Non-Delegable Elements
 
-The following elements can never be delegated:
+The following elements are **strictly non-delegable**:
 
-- Ownership of state
-- Evaluation of meaning
-- Acceptance of risk
-- Execution of irreversible action
-- Responsibility for outcome
+- ownership of state
+- evaluation of meaning
+- acceptance of risk
+- execution of irreversible action
+- responsibility for outcome
 
-Any system claiming to handle these is violating CANON-8.
+Any system claiming to perform these functions is violating CANON-8.
 
 ---
 
@@ -93,16 +109,20 @@ Any system claiming to handle these is violating CANON-8.
 
 Even a hypothetical AGI:
 
-- can map all possible options
+- can enumerate all options
 - can simulate all consequences
 - can predict probabilities
 
 It still cannot:
+
 - choose what matters
 - accept consequence
 - execute commitment
+- own outcome
 
-Delegating resolution to AGI collapses agency.
+Delegating resolution to AGI collapses agency by definition.
+
+This canon hard-locks CANON-7.
 
 ---
 
@@ -116,6 +136,7 @@ Without this canon:
 - systems appear “intelligent” but remain inert
 
 This manifests as:
+
 - analysis paralysis
 - dependence on recommendation engines
 - loss of initiative
@@ -125,8 +146,8 @@ This manifests as:
 
 ## 9. Canonical Statement
 
-> “A tool may compute the problem.  
-> Only an agent can end it.”
+> **A tool may compute the problem.  
+> Only an agent can end it.**
 
 This boundary terminates all delegation loops.
 
@@ -141,20 +162,28 @@ CANON-8 is satisfied when:
 - no system output is treated as final authority
 - responsibility cannot be externalized
 
-### Cognitive Safety Clarification
+If resolution is deferred to a system, CANON-8 is violated.
 
-Spectre makes cognitive state explicit, safe, and understandable.
-
-It does not interpret the agent’s mind.
-It does not diagnose, classify, or limit thought.
-
-Safety emerges from structure:
-– Observation is unrestricted.
-– Action requires explicit state ownership.
-– Commitment cannot occur without clarity of state.
-
-Spectre protects agency by preventing implicit delegation,
-not by restricting cognition.
 ---
 
-End of CANON-8
+## Cognitive Safety Clarification (Non-Interpretive)
+
+Spektre makes cognitive state explicit, safe, and understandable.
+
+It does **not**:
+
+- interpret the agent’s mind
+- diagnose, classify, or constrain thought
+- assign meaning or intention
+
+Safety emerges from structure:
+
+- observation is unrestricted
+- action requires explicit state ownership
+- commitment cannot occur without clarity of state
+
+Spektre protects agency by preventing **implicit delegation**, not by restricting cognition.
+
+---
+
+**End of CANON-8**
