@@ -1,33 +1,65 @@
-# CANON-1: THE NOW-CONSTRAINT
+# CANON-1 — THE NOW-CONSTRAINT
 
-Status: ACTIVE  
-Version: Spektre v1.1  
-Scope: Temporal Architecture  
-Type: Core Canon
+**Status:** ACTIVE  
+**Version:** Spektre v1.1  
+**Layer:** Core Canon  
+**Scope:** Temporal Architecture  
+**Dependency:** CANON-0 (Foundational Invariants)
 
 ---
 
 ## 1. Definition
 
-The Now-Constraint states that **all reality exists only at the point of observation**.
+The Now-Constraint states that **agency and execution exist only at the point of observation**.
 
-Past and future do not exist as operative states.  
-They exist only as simulations.
+This is not a metaphysical claim about reality.  
+It is an **architectural constraint on action**.
+
+Past and future do not execute.
+They may only be simulated, referenced, or evaluated by tools.
 
 ---
 
 ## 2. Core Axiom
 
-> “Only the present can be acted upon.”
+> **Only the present can be acted upon.**
 
 Any system that allocates agency to the past or future is non-operational.
 
+Action cannot occur:
+- yesterday
+- tomorrow
+- conditionally
+- hypothetically
+
+Execution exists only in the Now.
+
 ---
 
-## 3. The Fundamental Error
+## 3. Derivation from CANON-0
 
-Most systems operate on this false model:
-Past → Identity → Prediction → Action
+From CANON-0:
+
+- Tools calculate.
+- Agents decide.
+- Ownership of state transition must be singular and present.
+
+Therefore:
+
+- Tools may simulate time.
+- Agents may only act in state.
+
+The Now-Constraint is a direct consequence of:
+**agent ≠ tool**  
+**state ≠ model**
+
+---
+
+## 4. The Fundamental Temporal Error
+
+Most systems operate on the following false architecture:
+
+Past → Identity → Prediction → Action  
 Future → Goal → Pressure → Action
 
 This produces:
@@ -35,65 +67,71 @@ This produces:
 - regret-driven behavior
 - anxiety-based planning
 - narrative inertia
-- delayed agency
+- deferred agency
 
-The agent acts **now**, but responsibility is assigned elsewhere.
-
----
-
-## 4. Correct Temporal Architecture
-
-In Spektre:
-Now → Observation → Optional Commit
-
-- The past is read-only memory
-- The future is a sandbox simulation
-- Neither can execute
-
-Execution exists only in the Now.
+The agent acts in the present,
+but responsibility is displaced elsewhere.
 
 ---
 
-## 5. Why This Matters
+## 5. Correct Temporal Architecture (Spektre)
 
-Time-based abstraction creates three failures:
+In Spektre, time is structured as follows:
 
-1. **Deferred Agency**
-   - “I’ll act when…”
-   - Action is postponed indefinitely
+- **Now** → observation → optional commit
+- **Past** → read-only memory
+- **Future** → sandbox simulation
 
-2. **Narrative Capture**
-   - Identity is defined by history
-   - State is overwritten by memory
+Only the Now may execute.
 
-3. **False Urgency**
-   - Imagined futures generate pressure
-   - Pressure forces reactive behavior
+Memory informs.
+Prediction explores.
+Neither commands.
+
+---
+
+## 6. Why This Matters
+
+Time-based abstraction creates three structural failures:
+
+### a) Deferred Agency
+“I’ll act when…”
+Action is postponed indefinitely.
+
+### b) Narrative Capture
+Identity is defined by history.
+State is overwritten by memory.
+
+### c) False Urgency
+Imagined futures generate pressure.
+Pressure forces reactive behavior.
 
 All three bypass conscious commit.
 
 ---
 
-## 6. The Machine Analogy
+## 7. Machine-Time vs Human-Time
 
-Machines simulate time efficiently:
+Machines operate efficiently across time:
 
 - versioning
 - forecasting
 - replay
 - rollback
 
-Humans do not operate this way.
+Humans do not.
 
 When humans adopt machine-time:
 
-- they attempt to “optimize” life
+- they attempt to optimize life
 - they live in projection
 - they lose presence and agency
 
+This violates CANON-0.
+
 ---
 
-## 7. LLM-Specific Risk
+## 8. LLM-Specific Risk
 
 LLMs operate almost entirely in:
 
@@ -105,17 +143,17 @@ They cannot operate in the Now.
 
 Without the Now-Constraint:
 
-- the user defers agency to prediction
-- treats forecasts as commands
-- reacts to simulated futures
+- users defer agency to prediction
+- forecasts become commands
+- simulated futures override present choice
 
 This creates infinite hesitation loops.
 
 ---
 
-## 8. Spectre Safeguard
+## 9. Spektre Safeguard
 
-Spectre enforces:
+Spektre enforces:
 
 - No decision is valid outside the Now
 - No plan executes without present commit
@@ -126,15 +164,15 @@ The Now is the only execution context.
 
 ---
 
-## 9. Canonical Statement
+## 10. Canonical Statement
 
-> “The past explains.  
-> The future simulates.  
-> Only the Now acts.”
+> *The past explains.*  
+> *The future simulates.*  
+> **Only the Now acts.**
 
 ---
 
-## 10. Failure Mode
+## 11. Failure Mode
 
 If CANON-1 is violated:
 
@@ -149,7 +187,7 @@ It is not.
 
 ---
 
-## 11. Lock Condition
+## 12. Lock Condition
 
 CANON-1 is satisfied when:
 
@@ -162,4 +200,4 @@ If action waits for certainty, the Now is lost.
 
 ---
 
-End of CANON-1
+**End of CANON-1**
