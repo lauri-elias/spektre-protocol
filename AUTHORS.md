@@ -3,7 +3,7 @@
 This repository is the result of a long-term architectural and conceptual effort.
 Contributions span formal theory, systems design, language, and lived experience.
 
-The project is referred to as **Spektre v1.1**.
+The project is referred to as **Spektre v1.1**.  
 The Finnish form **Spektri v1.1** refers to the same architectural body of work.
 
 ---
@@ -38,6 +38,19 @@ The Finnish form **Spektri v1.1** refers to the same architectural body of work.
 
 ---
 
+## René Eerola  
+**Conceptual Systems Thinking & Inductive Reasoning**
+
+- Inductive and conductive system-level reasoning
+- Contributions to paradox resolution without metaphysical framing
+- Conceptual discussions around stability, entropy, and update dynamics
+- Informal but structurally relevant influence on Spektre and Decision SIEM thinking
+
+This contribution reflects conceptual influence through dialogue and shared reasoning,
+particularly in areas of system coherence and non-paradoxical handling of paradox.
+
+---
+
 ## Acknowledgements
 
 The author wishes to acknowledge **Otto Juote** for contributions at the level of
@@ -61,7 +74,8 @@ This work is also shaped by the presence of:
 - Colleagues  
 - Teachers  
 - Strangers  
-- Every conversation, conflict, cooperation, and shared silence  
+
+Every conversation, conflict, cooperation, and shared silence.
 
 Everyone encountered along the way contributed in some form — through dialogue,
 friction, support, misunderstanding, or simple human presence.
@@ -79,5 +93,5 @@ This project is not a product, company asset, or institutional publication.
 It is an architectural body of work, written and assembled with care,
 intended to stand on its own without promotion or justification.
 
-Authorship is acknowledged by **role and responsibility**,  
-gratitude by **human connection**.
+Authorship is acknowledged by **role and responsibility**.  
+Gratitude is acknowledged by **human connection**.
