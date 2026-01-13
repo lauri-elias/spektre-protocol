@@ -1,42 +1,71 @@
-# CANON-5: STATE OWNERSHIP
+# CANON-5 — STATE OWNERSHIP
 
-Status: ACTIVE  
-Version: Spektre v1.1  
-Scope: Agency Integrity  
-Type: Core Canon
+**Status:** ACTIVE  
+**Version:** Spektre v1.1  
+**Layer:** Core Canon  
+**Scope:** Agency Integrity  
+**Dependency:** CANON-0 (Foundational Invariants), CANON-1 (The Now-Constraint), CANON-2 (Linguistic Decoupling), CANON-3 (The Zero Point), CANON-4 (Signal Over Noise)
 
 ---
 
 ## 1. Definition
 
-State ownership means that the agent alone is responsible for
-the configuration of their internal state at the moment of action.
+State ownership means that **the agent alone is responsible for the configuration of their internal state at the moment of action**.
 
 If the agent does not own their state, they are not an agent.
 They are a tool.
+
+This is an architectural condition of agency, not a moral judgment.
 
 ---
 
 ## 2. Core Axiom
 
-> “He who does not own his state  
-> is a tool for those who do.”
+> **He who does not own his state  
+> is a tool for those who do.**
 
-Ownership is not control over the world.
+Ownership is not control over the world.  
 Ownership is control over response.
 
 ---
 
-## 3. State vs. Role
+## 3. Derivation from Prior Canons
 
-### 3.1 Role
+From CANON-0:
+- Tools calculate; agents decide.
+- Ownership of state transition must be singular.
 
-- Assigned externally
-- Socially defined
-- Context-dependent
-- Replaceable
+From CANON-1:
+- Action exists only in the Now.
+
+From CANON-2:
+- Language cannot define state.
+
+From CANON-3:
+- Choice originates from stillness.
+
+From CANON-4:
+- Signal requires intent tied to action.
+
+Therefore:
+- A valid commit requires a single, present owner of state.
+- Without ownership, no commit exists.
+
+---
+
+## 4. State vs. Role
+
+### 4.1 Role
+
+Roles are:
+
+- assigned externally
+- socially defined
+- context-dependent
+- replaceable
 
 Examples:
+
 - employee
 - patient
 - customer
@@ -47,37 +76,44 @@ Roles do not confer agency.
 
 ---
 
-### 3.2 State
+### 4.2 State
 
-- Internally configured
-- Temporally bound
-- Non-transferable
-- Non-replaceable
+State is:
+
+- internally configured
+- temporally bound
+- non-transferable
+- non-replaceable
 
 State determines:
+
 - perception
 - interpretation
 - capacity to act
 - capacity to refuse
 
+Agency resides in state, not role.
+
 ---
 
-## 4. The Ownership Requirement
+## 5. The Ownership Requirement
 
 For any valid action:
-a = 1
+
+**a = 1**
 
 Where:
-- `a` = owner of the state
-- `1` = a single, named agent
 
-If `a ≠ 1`, action is invalid.
+- **a** = owner of the state transition
+- **1** = a single, named agent
+
+If **a ≠ 1**, the action is invalid.
 
 Distributed responsibility collapses agency.
 
 ---
 
-## 5. Failure Modes Without State Ownership
+## 6. Failure Modes Without State Ownership
 
 Without CANON-5:
 
@@ -86,12 +122,12 @@ Without CANON-5:
 - responsibility diffuses
 - blame replaces accountability
 
-This produces systems that appear functional
-but cannot execute meaningful commits.
+Systems may appear functional,
+but they cannot execute meaningful commits.
 
 ---
 
-## 6. External Pressure Is Not Ownership
+## 7. External Pressure Is Not Ownership
 
 The following do **not** constitute state ownership:
 
@@ -107,7 +143,7 @@ ownership is lost.
 
 ---
 
-## 7. State Ownership and Freedom
+## 8. State Ownership and Freedom
 
 Freedom is not the ability to do anything.
 
@@ -122,7 +158,7 @@ Only a state-owning agent can do this.
 
 ---
 
-## 8. Machine Contrast
+## 9. Machine Contrast
 
 Machines:
 
@@ -132,30 +168,33 @@ Machines:
 - cannot carry responsibility
 
 Even advanced systems operate as:
-state = external assignment
+
+**state = external assignment**
 
 This disqualifies them from agency.
 
 ---
 
-## 9. Canonical Statement
+## 10. Canonical Statement
 
-> “Responsibility follows ownership.  
-> Ownership follows state.”
+> **Responsibility follows ownership.  
+> Ownership follows state.**
 
 No state ownership → no responsibility → no agency.
 
 ---
 
-## 10. Lock Condition
+## 11. Lock Condition
 
 CANON-5 is satisfied when:
 
 - every commit has a single owner
-- the agent can explain *why* they acted
 - the agent could have chosen not to act
 - no external system defines the agent’s state
+- responsibility is traceable to one agent
+
+If ownership is ambiguous, agency has failed.
 
 ---
 
-End of CANON-5
+**End of CANON-5**
