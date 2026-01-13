@@ -295,6 +295,26 @@ It is an interface **around** the formal work, not inside it.
 
 The portal is optional, removable, and replaceable  
 without affecting the mathematical structure of the model.
+
+---
+
+## Supplementary Materials (Non-Normative)
+
+Additional essays and contextual material related to the broader Spektre v1.1
+ecosystem are available separately.
+
+These materials are **not part of the formal model** and do not modify,
+extend, or interpret the mathematical definitions presented in this repository.
+
+They are provided for orientation, independent exploration, and contextual depth only.
+
+- 📁 **Technological Singularity / System Architecture Essays**  
+  https://drive.google.com/drive/folders/1lYfmRy6cHj5U8zaAeEoa-M2L1Qzsstuj?usp=sharing
+
+- 📁 **Cognitive Sciences / Human Layer Essays**  
+  https://drive.google.com/drive/folders/10eE4cmF0JaIeea6_rvM4IeWNS8onmAaM?usp=sharing
+
+These materials exist alongside the formal framework, not within it.
   
 
 
