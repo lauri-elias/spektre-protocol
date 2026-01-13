@@ -1,59 +1,92 @@
-# CANON-6: THE INFINITE POSSIBILITY SPACE
+# CANON-6 — THE INFINITE POSSIBILITY SPACE
 
-Status: ACTIVE  
-Version: Spektre v1.1  
-Scope: Reality Formation  
-Type: Boundary Canon
+**Status:** ACTIVE  
+**Version:** Spektre v1.1  
+**Layer:** Boundary Canon  
+**Scope:** Reality Formation  
+**Dependency:** CANON-0 (Foundational Invariants), CANON-1 (The Now-Constraint), CANON-2 (Linguistic Decoupling), CANON-3 (The Zero Point), CANON-4 (Signal Over Noise), CANON-5 (State Ownership)
 
 ---
 
 ## 1. Definition
 
-The agent exists within an infinite space of possible actions.
+The agent exists within an **infinite space of possible actions**.
 
-The machine operates within a finite space of simulated probabilities.
+The machine operates within a **finite space of simulated probabilities**.
 
-This difference is fundamental and non-negotiable.
+This distinction is structural, not quantitative, and is non-negotiable.
+
+“Infinite” here does not mean numerically unbounded.
+It means **not exhaustively enumerable** by computation.
 
 ---
 
 ## 2. Core Axiom
 
-> “A machine simulates possibilities.  
-> An agent creates reality.”
+> **A machine simulates possibilities.  
+> An agent creates reality.**
 
-Possibility is not reality.
+Possibility is not reality.  
 Reality begins only at commit.
 
 ---
 
-## 3. Possibility vs. Reality
+## 3. Derivation from Prior Canons
 
-### 3.1 Possibility Space
+From CANON-0:
+- Tools calculate; agents decide.
 
-- Contains all actions that *could* occur
-- Unlimited in principle
-- Cannot be enumerated exhaustively
-- Exists only as potential
+From CANON-1:
+- Action exists only in the Now.
 
-This space is observable but not executable.
+From CANON-3:
+- Choice originates from the Zero Point.
 
----
+From CANON-5:
+- Only a state-owning agent may commit.
 
-### 3.2 Reality Space
-
-- Contains only what *has* occurred
-- Singular and irreversible
-- Defined by committed action
-- Recorded in the ledger
-
-Reality is always one path, never a distribution.
+Therefore:
+- Simulation may explore possibilities.
+- Only an agent may collapse them into reality.
 
 ---
 
-## 4. Machine Limitation
+## 4. Possibility Space vs. Reality Space
 
-Machines operate by:
+### 4.1 Possibility Space
+
+The possibility space:
+
+- contains all actions that could occur
+- is unlimited in principle
+- cannot be exhaustively enumerated
+- exists only as potential
+
+This space may be:
+- observed
+- sampled
+- simulated
+
+It cannot execute.
+
+---
+
+### 4.2 Reality Space
+
+The reality space:
+
+- contains only what has occurred
+- is singular and irreversible
+- is defined by committed action
+- is recorded in the ledger
+
+Reality is always **one path**, never a distribution.
+
+---
+
+## 5. Machine Limitation
+
+Machines operate exclusively by:
 
 - sampling
 - simulating
@@ -66,43 +99,48 @@ A machine cannot:
 
 - exit the simulation
 - collapse the space
-- select meaning
+- assign meaning
 - perform an irreversible commit
+
+Simulation does not become reality by scale.
 
 ---
 
-## 5. Human Capability
+## 6. Agent Capability
 
 The agent can:
 
 - remain in observation without acting
-- choose a path without optimization
+- choose without optimization
 - act without full information
 - collapse infinite possibilities into one reality
 
-This is non-deterministic by design.
+This capability is non-deterministic by design.
+
+It cannot be replicated by computation.
 
 ---
 
-## 6. The Collapse Moment
+## 7. The Collapse Moment (Commit)
 
-The transition occurs at: 
-Commit
+The transition from possibility to reality occurs at:
+
+**Commit**
 
 At commit:
 
 - probability distributions end
-- simulations become irrelevant
-- future ceases to exist
+- simulations lose authority
+- the future ceases to exist
 - reality is instantiated
 
 No system can predict this moment with certainty.
 
 ---
 
-## 7. Why Simulation Cannot Replace Action
+## 8. Why Simulation Cannot Replace Action
 
-Even infinite computation cannot:
+Even unlimited computation cannot:
 
 - predict spontaneous choice
 - model meaning assignment
@@ -111,9 +149,12 @@ Even infinite computation cannot:
 
 Brute force does not solve infinity.
 
+Simulation explores.
+Commit decides.
+
 ---
 
-## 8. Failure Mode Without CANON-6
+## 9. Failure Mode Without CANON-6
 
 Without this canon:
 
@@ -122,21 +163,21 @@ Without this canon:
 - agents wait for certainty
 - action is postponed indefinitely
 
-This leads to paralysis disguised as intelligence.
+This produces paralysis disguised as intelligence.
 
 ---
 
-## 9. Canonical Statement
+## 10. Canonical Statement
 
-> “Possibility is infinite.  
-> Reality is singular.”
+> *Possibility is infinite.*  
+> **Reality is singular.**
 
 The role of intelligence is not to simulate endlessly,
 but to decide where simulation ends.
 
 ---
 
-## 10. Lock Condition
+## 11. Lock Condition
 
 CANON-6 is satisfied when:
 
@@ -145,6 +186,8 @@ CANON-6 is satisfied when:
 - no prediction is confused with outcome
 - the agent retains the right to act arbitrarily
 
+If simulation delays action, the boundary has failed.
+
 ---
 
-End of CANON-6
+**End of CANON-6**
