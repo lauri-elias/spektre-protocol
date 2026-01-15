@@ -22,6 +22,21 @@ This influence is linguistic and intellectual, not structural authorship.
 
 ---
 
+### René Eerola  
+Acknowledged for contributions to abstract reasoning, reverse-calculated logic,
+and induction–conduction style thinking.
+
+René’s work and discussions introduced a mode of reasoning where systems are
+understood from their resolved state backward — emphasizing reverse
+calculation, minimal representations, and non-linear induction.
+
+This perspective resonated strongly with the development of concepts such as
+zero-point reasoning, seed values, and sleek, low-overhead logic structures.
+
+His influence is conceptual and methodological, not formal authorship.
+
+---
+
 ### Esa Juhani Kulmala  
 Acknowledged for contributions related to mathematical thinking, formalism, and
 structural reasoning.
@@ -49,7 +64,7 @@ non-coercive system design.
 
 ---
 
-### Emil Mäki  
+### Emil Mäki 
 Acknowledged for insights related to sales, value communication, and real-world
 economic interaction.
 
