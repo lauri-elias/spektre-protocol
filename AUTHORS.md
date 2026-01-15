@@ -1,97 +1,44 @@
 # AUTHORS
 
-This repository is the result of a long-term architectural and conceptual effort.
-Contributions span formal theory, systems design, language, and lived experience.
+This repository is an architectural body of work developed under a single
+coherent vision and responsibility model.
 
-The project is referred to as **Spektre v1.1**.  
-The Finnish form **Spektri v1.1** refers to the same architectural body of work.
+The project is referred to as **Spektre v1.1** (English) and **Spektri v1.1**
+(Finnish). Both names refer to the same unified system.
 
 ---
 
 ## Lauri Elias Rainio  
 **Independent Architect / Primary Author**
 
-- Overall vision and architectural direction (Spektre v1.1)
-- Conceptual framework and system-level design
-- Writing, structuring, and synthesis of the material
-- Ethical, philosophical, and human integration
-- Obsidian-based knowledge architecture and final composition
+- Original vision and architectural authorship of Spektre v1.1
+- System-level design and conceptual framework
+- Formal structure, canon definitions, and invariants
+- Writing, synthesis, and final editorial control
+- Ethical, philosophical, and human-layer integration
+- Obsidian-based knowledge architecture and composition
+- Responsibility for all irreversible design decisions
+
+All canonical files, definitions, and architectural commitments are authored
+and owned by the Primary Author.
 
 ---
 
-## Esa Juhani Kulmala  
-**Formalisation & Mathematics**
+## Governance
 
-- Mathematical formalisation
-- Structural and logical consistency
-- Abstract modeling and foundational reasoning
-- Support for the formal layer of Spektre v1.1
-
----
-
-## Alpo Panula  
-**Automation & Agent Systems**
-
-- Automation concepts and system orchestration thinking
-- Agent-based architectures and practical implementation perspectives
-- Applied reasoning at the interface of tools and systems
-
----
-
-## René Eerola  
-**Conceptual Systems Thinking & Inductive Reasoning**
-
-- Inductive and conductive system-level reasoning
-- Contributions to paradox resolution without metaphysical framing
-- Conceptual discussions around stability, entropy, and update dynamics
-- Informal but structurally relevant influence on Spektre and Decision SIEM thinking
-
-This contribution reflects conceptual influence through dialogue and shared reasoning,
-particularly in areas of system coherence and non-paradoxical handling of paradox.
-
----
-
-## Acknowledgements
-
-The author wishes to acknowledge **Otto Juote** for contributions at the level of
-language, vocabulary, and literary framing.
-
-His work, discussions, and written material provided terminology, references,
-and conceptual language that helped articulate ideas already under development,
-particularly in philosophy, culture, and contemporary thought.
-
-This acknowledgement reflects intellectual and linguistic influence,
-not structural authorship.
-
----
-
-## General Thanks
-
-This work is also shaped by the presence of:
-
-- Friends  
-- Family  
-- Colleagues  
-- Teachers  
-- Strangers  
-
-Every conversation, conflict, cooperation, and shared silence.
-
-Everyone encountered along the way contributed in some form — through dialogue,
-friction, support, misunderstanding, or simple human presence.
-
-Not all influence is direct.  
-Not all contribution is intentional.  
-All of it matters.
+- Final editorial authority resides with the Primary Author.
+- Canonical documents represent intentional architectural commitments.
+- Contributions affecting canon require explicit approval by the Primary Author.
+- Influence, discussion, and inspiration are acknowledged separately and do not
+  imply authorship or responsibility.
 
 ---
 
 ## Notes
 
-This project is not a product, company asset, or institutional publication.
+This project is not a company asset, product, or institutional publication.
 
-It is an architectural body of work, written and assembled with care,
-intended to stand on its own without promotion or justification.
+It is an independent architectural work, maintained to preserve clarity,
+accountability, and agency.
 
-Authorship is acknowledged by **role and responsibility**.  
-Gratitude is acknowledged by **human connection**.
+Authorship here denotes **responsibility**, not popularity or contribution volume.
