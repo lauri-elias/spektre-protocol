@@ -1,6 +1,6 @@
 # Spektre v1.1  
 ## A Formal Model of Dynamic State Spaces
-
+> **Genesis Layer:** See [`SPEKTRE_GENESIS.md`](./SPEKTRE_GENESIS.md) — the recorded instantiation of Spektre Protocol v1.1 into irreversible execution.
 **Status:** Conceptual / Mathematical  
 **Scope:** Formal modeling of expressive capacity and state-space hierarchies  
 **Language:** Mathematics, systems theory  
