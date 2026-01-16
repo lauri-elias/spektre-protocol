@@ -9,6 +9,14 @@
 Identity claims, psychology, metaphysics, phenomenology
 
 ---
+Versioning & Stability
+
+Spektre v1.1 is a locked formal specification.
+
+Future versions, if any, will introduce new layers or extensions
+without modifying or reinterpreting the definitions presented here.
+
+No retroactive changes will be applied to Spektre v1.1.
 
 ## Purpose
 
@@ -39,6 +47,9 @@ Many modern systems â€” in physics, AI, control theory, economics, and biology â
 5. Iterated operator spaces  
 
 Each step introduces **qualitatively new capacity**, not merely quantitative scaling.
+
+This framework is concerned with expressivity limits, not performance,
+optimization, learning, or empirical fitting.
 
 ---
 
@@ -133,7 +144,20 @@ Each level represents:
 
 This construction formalizes **vertical expressivity**, not horizontal scaling.
 
+No assumptions are made about continuity, measurability,
+computability, or boundedness of the function spaces unless
+explicitly stated in future extensions.
+
+
 ---
+Formal Status of Interpretation
+
+All interpretations, metaphors, or experiential analogies
+sometimes associated with state-space hierarchies
+are external to this model.
+
+Spektre v1.1 defines structure only.
+Any meaning assigned to these structures is outside scope.
 
 ## What Spektre Is Not
 
@@ -157,7 +181,10 @@ Similar structures appear in:
 - Operator algebras  
 - Control theory  
 - Machine learning hypothesis spaces  
-- Dynamical systems  
+- Dynamical systems
+  
+  Spektre abstracts structural relationships without proposing
+new theorems inside these domains.
 
 **Spektre** does not replace these fields; it provides a unifying **structural lens**.
 
@@ -176,6 +203,11 @@ The following are intentionally not included, but are compatible:
 These are extensions, not part of **Spektre v1.1**.
 
 ---
+
+Citation
+
+If referencing Spektre v1.1, cite the repository and version number
+only. Do not cite supplementary materials as part of the formal model.
 
 ## License
 
