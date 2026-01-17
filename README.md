@@ -356,7 +356,23 @@ They are provided for orientation, independent exploration, and contextual depth
 
 These materials exist alongside the formal framework, not within it.
 
-  “For cognitive state safety and attention dynamics, see COGNITIVE_STATE_DYNAMICS.md.”
+## Cognitive & State Safety
+
+Spektre operates under a strict agency-preserving invariant:
+
+**1 = 1**
+
+All execution assumes:
+- a continuous point of responsibility,
+- coherent consequences,
+- and a stable consciousness continuum.
+
+For notes on cognitive state safety, attention dynamics, and
+avoiding non-viable reasoning paths (1=0), see:
+
+→ **COGNITIVE_STATE_DYNAMICS.md**  
+→ **CONSCIOUSNESS.md**
+
 
   — Spektre Protocol v1.1
 
