@@ -355,7 +355,10 @@ They are provided for orientation, independent exploration, and contextual depth
   https://drive.google.com/drive/folders/10eE4cmF0JaIeea6_rvM4IeWNS8onmAaM?usp=sharing
 
 These materials exist alongside the formal framework, not within it.
-  
+
+  “For cognitive state safety and attention dynamics, see COGNITIVE_STATE_DYNAMICS.md.”
+
+  — Spektre Protocol v1.1
 
 
 
