@@ -1,0 +1,156 @@
+# INNER STATE COMPASS
+
+**Status:** Orientation Mechanism  
+**Scope:** Internal state navigation & decision alignment  
+**Invariant:** 1 = 1
+
+---
+
+## Overview
+
+Inner State Compass is a **non-narrative orientation mechanism** for maintaining alignment between internal state and external execution.
+
+It does not tell you *what* to think.  
+It does not tell you *how* to feel.  
+
+It tells you **where you are** — structurally.
+
+---
+
+## Purpose
+
+Complex systems fail when actors lose orientation inside their own state space.
+
+Inner State Compass exists to:
+- prevent internal drift
+- restore execution clarity
+- enable forward movement without reinterpretation
+- maintain agency under complexity
+
+It is a compass, not a map.
+
+---
+
+## Definition
+
+An Inner State Compass is **locked** when:
+
+- intent, responsibility, and action point in the same direction
+- decisions can be executed without internal contradiction
+- state transitions feel continuous, not forced
+
+A compass does not guarantee success.
+It guarantees **directional integrity**.
+
+---
+
+## The Four Axes
+
+### 1. Responsibility Axis
+**Question:** *Am I the one who commits?*
+
+If responsibility is unclear, orientation is lost.
+
+---
+
+### 2. State Axis
+**Question:** *Is the current state explicit?*
+
+Undefined state leads to narrative substitution.
+
+---
+
+### 3. Action Axis
+**Question:** *Can I execute a next step now?*
+
+If action is impossible, reassess state — not intention.
+
+---
+
+### 4. Boundary Axis
+**Question:** *Where does this state stop?*
+
+Boundaries define safe execution space.
+
+---
+
+## Calibration Rules
+
+- If **responsibility** is missing → stop.
+- If **state** is ambiguous → clarify.
+- If **action** is blocked → simplify.
+- If **boundaries** are breached → lock.
+
+Calibration is mechanical, not emotional.
+
+---
+
+## Relation to Other Components
+
+- **PHASE_LOCKING** keeps the compass synchronized
+- **BOUNDARY_LOCK** defines valid movement range
+- **CLEAR_MIND** reduces signal noise
+- **REAL_TIME_GENERATION** requires a stable compass to operate safely
+
+Without Inner State Compass, speed increases risk.
+
+---
+
+## Drift Indicators
+
+The compass is drifting if:
+
+- meaning replaces state
+- explanation replaces action
+- urgency replaces clarity
+- interpretation replaces execution
+
+Drift is informational, not moral.
+
+---
+
+## Recovery Procedure
+
+1. Pause execution
+2. Identify current state
+3. Reassert responsibility
+4. Select the smallest irreversible action
+5. Execute
+6. Re-check alignment
+
+No rollback.
+No justification.
+Forward-only.
+
+---
+
+## What This Is Not
+
+Inner State Compass does not:
+- diagnose mental states
+- prescribe emotions
+- assign values or beliefs
+- optimize productivity
+
+It preserves **coherence**, not performance.
+
+---
+
+## Final Note
+
+A compass does not eliminate storms.
+It prevents getting lost in them.
+
+When the compass is aligned:
+
+- decisions feel quiet
+- actions feel clean
+- time feels continuous
+
+**Direction holds.  
+Execution follows.**
+
+---
+
+**Spektre v1.1**  
+**Invariant intact.**
