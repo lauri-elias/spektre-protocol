@@ -1,44 +1,73 @@
 # AUTHORS
 
-This repository is an architectural body of work developed under a single
-coherent vision and responsibility model.
+This document lists contributors to the **Spektre / Spektri v1.1** ecosystem  
+(protocol layer and execution layer), with roles defined in technical terms.
 
-The project is referred to as **Spektre v1.1** (English) and **Spektri v1.1**
-(Finnish). Both names refer to the same unified system.
-
----
-
-## Lauri Elias Rainio  
-**Independent Architect / Primary Author**
-
-- Original vision and architectural authorship of Spektre v1.1
-- System-level design and conceptual framework
-- Formal structure, canon definitions, and invariants
-- Writing, synthesis, and final editorial control
-- Ethical, philosophical, and human-layer integration
-- Obsidian-based knowledge architecture and composition
-- Responsibility for all irreversible design decisions
-
-All canonical files, definitions, and architectural commitments are authored
-and owned by the Primary Author.
+Authorship here refers to **conceptual, architectural, and structural contributions**.
+It does not imply ownership of interpretations, implementations, or derivative works
+outside this repository unless explicitly stated.
 
 ---
 
-## Governance
+## Core Architect
 
-- Final editorial authority resides with the Primary Author.
-- Canonical documents represent intentional architectural commitments.
-- Contributions affecting canon require explicit approval by the Primary Author.
-- Influence, discussion, and inspiration are acknowledged separately and do not
-  imply authorship or responsibility.
+**Lauri Elias Rainio**  
+Role: Independent Systems Architect  
+Scope:
+- Original author of the Spektre v1.1 formal framework
+- Architectural definition of state-first modeling
+- Protocol specification and invariants
+- Structural separation of protocol (definition) and genesis (execution)
+
+Status: Primary Author
 
 ---
 
-## Notes
+## Co-Author / Lead Compiler
 
-This project is not a company asset, product, or institutional publication.
+**René Eerola**  
+Role: Co-Author, External Architectural Validation  
+Scope:
+- Independent review and discussion of core architectural concepts
+- High-level systems reasoning and latency/state metaphors
+- External validation through technical dialogue
+- Contribution to clarity and robustness of architectural framing
 
-It is an independent architectural work, maintained to preserve clarity,
-accountability, and agency.
+Status: Active Contributor
 
-Authorship here denotes **responsibility**, not popularity or contribution volume.
+Note:
+René Eerola’s role reflects **conceptual contribution and external compilation**
+through dialogue and reasoning. No claims are made regarding authorship of code
+unless explicitly included in version control history.
+
+---
+
+## Authorship Principles
+
+- Authorship is **additive**, not hierarchical
+- Contributions are recognized based on **actual input**
+- Interpretation, experience, or belief is **out of scope**
+- The formal model remains invariant under authorship expansion
+
+Spektre v1.1 remains a **locked formal specification**.
+Additional authors do not modify its definitions retroactively.
+
+---
+
+## How to Contribute
+
+Contributions may include:
+- Conceptual clarification
+- Structural critique
+- Formal extensions (in separate documents)
+- Reference implementations
+
+All contributions must preserve:
+- Structural integrity
+- Clear scope boundaries
+- Separation of protocol and execution
+
+---
+
+**Invariant:** 1 = 1  
+**License:** Apache-2.0  
