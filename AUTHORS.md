@@ -1,73 +1,70 @@
 # AUTHORS
 
-This document lists contributors to the **Spektre / Spektri v1.1** ecosystem  
-(protocol layer and execution layer), with roles defined in technical terms.
+This document defines formal authorship for the Spektre v1.1 / Spektri-Genesis body of work.
 
-Authorship here refers to **conceptual, architectural, and structural contributions**.
-It does not imply ownership of interpretations, implementations, or derivative works
-outside this repository unless explicitly stated.
+Authorship denotes responsibility for content, structure, and intent within the scope described below.
 
 ---
 
-## Core Architect
+## Core Author
 
 **Lauri Elias Rainio**  
-Role: Independent Systems Architect  
-Scope:
-- Original author of the Spektre v1.1 formal framework
-- Architectural definition of state-first modeling
-- Protocol specification and invariants
-- Structural separation of protocol (definition) and genesis (execution)
+Independent Systems Architect  
 
-Status: Primary Author
+Primary author and responsible party for:
+
+- Overall system architecture
+- Formal definitions and invariants
+- Specification boundaries
+- Repository structure and versioning
+- Final responsibility for all published material
 
 ---
 
-## Co-Author / Lead Compiler
+## Co-Author
 
 **René Eerola**  
-Role: Co-Author, External Architectural Validation  
-Scope:
-- Independent review and discussion of core architectural concepts
-- High-level systems reasoning and latency/state metaphors
-- External validation through technical dialogue
-- Contribution to clarity and robustness of architectural framing
+Independent Contributor  
 
-Status: Active Contributor
+Co-author for contributions related to:
 
-Note:
-René Eerola’s role reflects **conceptual contribution and external compilation**
-through dialogue and reasoning. No claims are made regarding authorship of code
-unless explicitly included in version control history.
+- Reverse-calculated reasoning frameworks
+- Induction–conduction style logic
+- Minimal-state representations
+- Backward inference and seed-value reasoning
+- Dialogical validation of non-linear architectural concepts
 
----
+René Eerola contributed through sustained analytical dialogue and conceptual development that materially influenced the formation of several core ideas.
 
-## Authorship Principles
-
-- Authorship is **additive**, not hierarchical
-- Contributions are recognized based on **actual input**
-- Interpretation, experience, or belief is **out of scope**
-- The formal model remains invariant under authorship expansion
-
-Spektre v1.1 remains a **locked formal specification**.
-Additional authors do not modify its definitions retroactively.
+Authorship is limited to **conceptual contribution and reasoning methodology**.  
+Final specification authority and responsibility remain with the Core Author.
 
 ---
 
-## How to Contribute
+## Authorship Scope
 
-Contributions may include:
-- Conceptual clarification
-- Structural critique
-- Formal extensions (in separate documents)
-- Reference implementations
+Authorship applies to:
 
-All contributions must preserve:
-- Structural integrity
-- Clear scope boundaries
-- Separation of protocol and execution
+- Spektre Protocol v1.1
+- Spektri-Genesis (execution layer)
+- Associated formal documentation
+- Structural essays directly referenced by the repositories
 
 ---
 
-**Invariant:** 1 = 1  
-**License:** Apache-2.0  
+## Responsibility Statement
+
+Authorship implies intellectual contribution and accountability within defined scope.  
+It does not imply:
+
+- Institutional affiliation
+- Legal partnership
+- Organizational representation
+- Collective decision authority
+
+Responsibility for publication, interpretation, and use remains explicitly defined.
+
+---
+
+**Authorship is defined by responsibility.  
+Contribution is defined by substance.**
