@@ -373,6 +373,9 @@ avoiding non-viable reasoning paths (1=0), see:
 → **COGNITIVE_STATE_DYNAMICS.md**  
 → **CONSCIOUSNESS.md**
 
+Execution layer:
+https://github.com/nuoriharka/spektri-genesis
+
 
   — Spektre Protocol v1.1
 
