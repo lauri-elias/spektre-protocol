@@ -376,6 +376,10 @@ avoiding non-viable reasoning paths (1=0), see:
 Execution layer:
 https://github.com/nuoriharka/spektri-genesis
 
+> These files form a non-linear state space.
+> There is no canonical reading order.
+> Meaning emerges through traversal, not sequence.
+
 
   — Spektre Protocol v1.1
 
