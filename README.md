@@ -373,8 +373,13 @@ avoiding non-viable reasoning paths (1=0), see:
 → **COGNITIVE_STATE_DYNAMICS.md**  
 → **CONSCIOUSNESS.md**
 
-Execution layer:
-https://github.com/nuoriharka/spektri-genesis
+## Design & Execution
+
+- **Design definition:** [DESIGN.md](./DESIGN.md)  
+  _How it looks vs. how it works. Design as execution._
+
+- **Execution layer (Genesis):**  
+  https://github.com/nuoriharka/spektri-genesis
 
 > These files form a non-linear state space.
 > There is no canonical reading order.
