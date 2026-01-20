@@ -204,7 +204,9 @@ They are not part of the formal model.
 
 - 📁 Cognitive & Human-Layer Essays  
   https://drive.google.com/drive/folders/10eE4cmF0JaIeea6_rvM4IeWNS8onmAaM
-
+  
+- 📁 Technology & System Essays (ENGLISH)
+  https://drive.google.com/drive/folders/1m3yMC5Ye0-MzORr7eBlHCFfCxfLXYeDX
 ---
 
 ## Design Definition
