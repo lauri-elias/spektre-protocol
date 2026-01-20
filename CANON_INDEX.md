@@ -1,7 +1,8 @@
 # SPEKTRE — CANON INDEX
-Version: 1.1 (LOCKED)
-Status: Canonical
-Date: 2025-12-27
+
+**Version:** 1.1 (**LOCKED**)  
+**Status:** Canonical  
+**Date:** 2026-01-20  
 
 ---
 
@@ -9,34 +10,59 @@ Date: 2025-12-27
 
 Contemporary systems increase complexity without corresponding architecture.
 
-Modern AI development attempts to solve qualitative human problems through quantitative computational power. This produces an architectural failure: responsibility, agency, and irreversible decision-making are progressively delegated to tools that cannot hold state.
+Modern AI development attempts to resolve **qualitative human responsibility problems** through **quantitative computational scaling**.  
+This produces a structural failure:
 
-Spektre exists to address this failure.
+- responsibility diffuses  
+- agency erodes  
+- irreversible decisions are delegated to tools incapable of holding state  
+
+**Spektre exists to terminate this failure mode.**
 
 Spektre is not a calculator.  
 Spektre is not an oracle.  
-Spektre is an architecture for **Agency Preservation**.
+Spektre is not intelligence amplification.
+
+**Spektre is an architecture for Agency Preservation.**
 
 Tools remain tools.  
 Humans retain responsibility.
 
 ---
 
+## Canonical Scope
+
+The following **Core Canons (0–8)** are:
+
+- **Normative**
+- **Invariant**
+- **Non-optional**
+
+They define **what must not break** under any system evolution.
+
+No module, interface, tool, or interpretation may violate these canons.
+
+---
+
 ## The Core Canons (0–8)
 
-> **Note:** Core Canons are normative and invariant.  
-> They define what *must not break*.
+---
 
 ### CANON-0 — The Nature of Agency  
 **Status:** ACTIVE
 
-Agency is the ability to hold state and execute a commit.
+Agency is the capacity to:
+
+- hold state  
+- execute an irreversible commit  
+- retain responsibility for consequences  
 
 This canon defines the irreducible distinction between:
-- reactive functions (machines)
-- conscious agents (humans)
 
-Agency cannot be computed, delegated, optimized, or simulated.  
+- **reactive functions** (machines)  
+- **conscious agents** (humans)  
+
+Agency cannot be computed, delegated, simulated, or optimized.  
 It exists only where responsibility for irreversible action is held.
 
 ---
@@ -46,7 +72,9 @@ It exists only where responsibility for irreversible action is held.
 
 Reality exists only at the point of observation.
 
-Past and future are internal simulations.  
+- Past = internal reconstruction  
+- Future = internal simulation  
+
 All valid action originates in the present state.
 
 This canon prevents decision-making based on imagined futures or reconstructed pasts.
@@ -56,10 +84,10 @@ This canon prevents decision-making based on imagined futures or reconstructed p
 ### CANON-2 — Linguistic Decoupling  
 **Status:** ACTIVE
 
-Language is a transmission protocol, not the state itself.
+Language is a transmission protocol, not state itself.
 
-Words describe state.  
-Words do not define state.
+- Words describe state  
+- Words do not define state  
 
 This canon prevents narrative capture, symbolic escalation, and language-driven authority transfer.
 
@@ -70,18 +98,18 @@ This canon prevents narrative capture, symbolic escalation, and language-driven 
 
 All non-reactive action originates from stillness.
 
-Without a zero point, behavior is deterministic and reactive.  
-Deliberate commitment requires a neutral baseline state.
+Without a neutral baseline, behavior becomes deterministic and reactive.  
+Deliberate commitment requires a zero point.
 
 ---
 
 ### CANON-4 — Signal over Noise  
 **Status:** ACTIVE
 
-Data is inert until meaning is assigned through commitment.
+Information is inert until commitment occurs.
 
-Processing does not create value.  
-Computation does not equal intent.
+- Processing does not create value  
+- Computation does not equal intent  
 
 Only commitment transforms information into consequence.
 
@@ -95,9 +123,10 @@ Unowned state will be owned externally.
 State ownership is non-transferable.
 
 This canon protects against:
-- algorithmic control
-- social manipulation
-- narrative coercion
+
+- algorithmic control  
+- social manipulation  
+- narrative coercion  
 
 An agent who does not own their state becomes a tool.
 
@@ -106,9 +135,10 @@ An agent who does not own their state becomes a tool.
 ### CANON-6 — The Possibility Boundary  
 **Status:** ACTIVE
 
-Machines enumerate possibilities; agents collapse them.
+Machines enumerate possibilities.  
+Agents collapse them.
 
-Simulation can explore options indefinitely.  
+Simulation can explore indefinitely.  
 Reality changes only through commitment.
 
 Commitment terminates simulation.
@@ -121,14 +151,16 @@ Commitment terminates simulation.
 AGI is a tool with an interface, not an entity with agency.
 
 AGI may:
-- compute
-- simulate
-- recommend
+
+- compute  
+- simulate  
+- recommend  
 
 AGI may not:
-- own state
-- execute commits
-- carry responsibility
+
+- own state  
+- execute commits  
+- carry responsibility  
 
 Without state ownership, AGI remains computational.
 
@@ -141,56 +173,38 @@ A tool may compute a problem, but cannot resolve it on behalf of an agent.
 
 Responsibility cannot be delegated.
 
-This canon prevents infinite delegation loops and ensures that all irreversible actions remain human-owned.
+This canon prevents infinite delegation loops and ensures all irreversible actions remain human-owned.
 
 ---
 
 ## Applied Architecture Modules (Non-Canonical)
 
-> These modules **implement** the Canons in lived systems.  
-> They are extensible, replaceable, and contextual.
+These modules implement the Canons in lived systems.
 
-They do **not** introduce new norms.  
-They translate invariant canons into operational reality.
+They are extensible, replaceable, and contextual.  
+They introduce no new norms.
 
 ### Current Modules
 
-- `MIND_LOGIC.md`  
-  Intrusive thoughts, cognitive debugging, and thought ≠ intent separation.
-
-- `BODY_SIGNALING.md`  
-  Nervous system vs brain function, dreams, shame, identity load, and bodily signaling.
-
-- `RECOVERY_LOOPS.md`  
-  Non-linear recovery, oscillation, integration cycles, and rest–action dynamics.
-
-- `INTEGRATION_MARKERS.md`  
-  Physiological and cognitive signs of deep integration (including muscle changes, appetite, sleep, and drive).
-
-- `ENVIRONMENTAL_STATE.md`  
-  Environmental coupling, physical boundaries, relocation, grounding, and state protection.
-
-- `FINAL_INTEGRATION.md`  
-  Exponential integration effects, nervous system settling, and post-activation stabilization.
-
-- `TRAUMA_LAYERS.md`  
-  Catabasis, identity fracture, medical trauma, and post-crisis reassembly.
-
-- `NEUROPLASTICITY.md`  
-  Brain adaptation, learning under medication, and long-term structural change.
+- **MIND_LOGIC.md**  
+- **BODY_SIGNALING.md**  
+- **RECOVERY_LOOPS.md**  
+- **INTEGRATION_MARKERS.md**  
+- **ENVIRONMENTAL_STATE.md**  
+- **FINAL_INTEGRATION.md**  
+- **TRAUMA_LAYERS.md**  
+- **NEUROPLASTICITY.md**
 
 ---
 
 ## Architectural Summary (v1.1)
 
-**State over Function**  
-Internal configuration precedes output.
+- **State over Function**  
+- **Commit over Calculation**  
+- **Agent over Tool**
 
-**Commit over Calculation**  
-Real-world change requires irreversible action.
-
-**Agent over Tool**  
-Machines map options. Humans decide.
+Machines map options.  
+Humans decide.
 
 ---
 
@@ -209,4 +223,4 @@ System: Ready
 Architecture: Verified  
 Agency: Preserved  
 
-[EOF]
+**[EOF]**
