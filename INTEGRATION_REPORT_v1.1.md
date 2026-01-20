@@ -5,7 +5,8 @@
 **Date:** 2026-01-20  
 **Status:** ✅ COMPLETE  
 **Author:** Lauri Elias Rainio-Poduskin  
-**Repo:** https://github.com/lauri-elias/spektre-protocol
+**Protocol Repo:** https://github.com/lauri-elias/spektre-protocol
+**Genesis Repo:** https://github.com/nuoriharka/spektri-genesis
 
 ---
 
